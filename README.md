@@ -81,20 +81,85 @@ A structured B2B prospect research project focused on identifying US-based web d
 
 ## 2. 🔄 End-to-End Research Workflow
 
-The project followed a structured research-to-outreach process.
+The project followed a structured seven-stage research-to-outreach process, converting target market research into qualified B2B sales prospects.
 
-```mermaid
-flowchart TD
-    A["Market Research"] --> B["Company Discovery"]
-    B --> C["Company Profiling"]
-    C --> D["ICP Development"]
-    D --> E["Decision-Maker Research"]
-    E --> F["Lead Qualification"]
-    F --> G["Prospect Database"]
-    G --> H["Outbound Strategy"]
-    H --> I["LinkedIn Outreach"]
-    H --> J["Cold Email Outreach"]
-```
+### Research Workflow
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>01</h3>
+      <b>🔎 Market Research</b>
+      <br/>
+      <sub>Identify US web development agencies</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>02</h3>
+      <b>🏢 Company Discovery</b>
+      <br/>
+      <sub>Find and shortlist target companies</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>03</h3>
+      <b>🎯 ICP Development</b>
+      <br/>
+      <sub>Define ideal customer criteria</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      ⬇️ <b>Company Evaluation & Profiling</b> ⬇️
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>04</h3>
+      <b>📋 Company Profiling</b>
+      <br/>
+      <sub>Evaluate services, size and business models</sub>
+    </td>
+    <td align="center">
+      <h3>05</h3>
+      <b>👥 Decision-Maker Research</b>
+      <br/>
+      <sub>Identify founders, CEOs and sales leaders</sub>
+    </td>
+    <td align="center">
+      <h3>06</h3>
+      <b>✅ Lead Qualification</b>
+      <br/>
+      <sub>Evaluate company and prospect relevance</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      ⬇️ <b>Qualified Prospect Database</b> ⬇️
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <h3>07 — 📬 Outbound Outreach Strategy</h3>
+      <sub>Prepare prospect engagement and follow-up strategies</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>💼 LinkedIn Outreach</b>
+      <br/>
+      <sub>Professional networking and personalized messaging</sub>
+    </td>
+    <td align="center">
+      <b>✉️ Cold Email</b>
+      <br/>
+      <sub>Personalized emails and follow-up sequences</sub>
+    </td>
+    <td align="center">
+      <b>📊 CRM Context</b>
+      <br/>
+      <sub>Prospect organization and pipeline tracking</sub>
+    </td>
+  </tr>
+</table>
 
 ### Research Process Breakdown
 
@@ -108,7 +173,7 @@ flowchart TD
 | 06. Lead Qualification | Evaluated company and contact relevance | 12 Qualified Leads |
 | 07. Outreach Planning | Prepared LinkedIn and email strategies | 2 Channels |
 
----
+
 
 ## 3. 🎯 Ideal Customer Profile (ICP)
 
