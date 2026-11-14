@@ -2,11 +2,11 @@ B2B Lead Generation & Prospect Research
 
 US Market | Web Development Industry
 
-📌 Project Overview
+Project Overview
 
 Conducted B2B lead generation and prospect research targeting US-based web development companies. The project involved identifying potential accounts, researching key decision-makers, evaluating ICP alignment, and building a structured prospect database for a SaaS solution.
 
-🎯 Project Objectives
+Project Objectives
 
 Research 50 US-based web development companies.
 
@@ -20,7 +20,7 @@ Qualify leads based on business requirements.
 
 Develop a structured outbound outreach strategy.
 
-📊 Project Performance Matrix
+Project Performance Matrix
 
 Key Metrics
 
@@ -50,7 +50,7 @@ Outreach Channels Planned
 
 2
 
-📈 Research & Lead Generation Matrix
+Research & Lead Generation Matrix
 
 Research Stage
 
@@ -94,7 +94,7 @@ Prepared LinkedIn and email strategies
 
 2 Channels
 
-🔍 Research Methodology
+Research Methodology
 
 1. Company Research
 
@@ -128,7 +128,7 @@ Developed cold email outreach approaches.
 
 Planned structured follow-up activities.
 
-🎯 Ideal Customer Profile (ICP)
+Ideal Customer Profile (ICP)
 
 Criteria
 
@@ -166,7 +166,7 @@ Potential Needs
 
 CRM, Lead Management, Sales Pipeline Tracking
 
-🛠️ Tools & Platforms Used
+Tools & Platforms Used
 
 Platform
 
@@ -196,7 +196,7 @@ HubSpot
 
 CRM workflow context
 
-📋 Project Deliverables
+Project Deliverables
 
 ICP Research
 
@@ -210,11 +210,11 @@ Outreach Strategy
 
 Project Summary
 
-💼 Skills Demonstrated
+Skills Demonstrated
 
 B2B Lead Generation | Prospect Research | ICP Development | Market Research | Decision-Maker Identification | Lead Qualification | Lead Scoring | CRM Data Management | LinkedIn Prospecting | Sales Pipeline Management | Microsoft Excel
 
-📌 Project Outcome
+Project Outcome
 
 Successfully researched 50 US-based web development companies and identified 12 relevant decision-maker prospects, achieving a 24% account-to-lead yield.
 
